@@ -21,10 +21,10 @@
 <br>
 
 
-<summary><h2>🛠️ My Favorite Technologies</h2></summary>
+<h2>🛠️ My Favorite Technologies</h2>
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges & https://github.com/DenverCoder1/ -->
 
-<h3>💻 Programming and Markup Languages</h3>
+<h4>💻 Programming and Markup Languages</h4>
 
 <p>
   <a href="https://github.com/search?q=user%3ATitidhom+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
@@ -34,7 +34,7 @@
   <a href="https://github.com/search?q=user%3ATitidhom+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 </p>
 
-<h3>🧰 Frameworks and Libraries</h3>
+<h4>🧰 Frameworks and Libraries</h4>
 <p>
   <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
   <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
@@ -43,7 +43,7 @@
 </p>
 
 
-<h3>💻 Software and Tools</h3>
+<h4>💻 Software and Tools</h4>
 
 <p>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
