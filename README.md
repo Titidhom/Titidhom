@@ -15,4 +15,4 @@ I am a coding enthusiast with interest in data analysis, machine learning and de
 
 ![Google Cloud](https://img.shields.io/badge/google-cloud?style=for-the-badge&logo=google-cloud&logoColor=white&color=blue)
 
-![Test](https://img.shields.io/badge/google%2520cloud?style=for-the-badge&logo=googlebigquery&logoColor=white&color=blue)
+![Test](https://img.shields.io/badge/google%20cloud?style=for-the-badge&logo=googlebigquery&logoColor=white&color=blue)
