@@ -19,7 +19,7 @@
 <br>
 
 <details>
-  <h2>🛠️ My Favorite Technologies</h2>
+  <summary><h2>🛠️ My Favorite Technologies</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges & https://github.com/DenverCoder1/ -->
 
   <h3>💻 Programming and Markup Languages</h3>
