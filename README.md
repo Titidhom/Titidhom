@@ -13,4 +13,6 @@ I am a coding enthusiast with interest in data analysis, machine learning and de
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-![Google Cloud](https://img.shields.io/badge/http://www.w3.org/2000/svg?logo=google-cloud&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/google-cloud?style=for-the-badge&logo=google-cloud&logoColor=white&color=blue)
+
+![Test](https://img.shields.io/badge/google%2520cloud?style=for-the-badge&logo=googlebigquery&logoColor=white&color=blue)
